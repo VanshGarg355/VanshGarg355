@@ -1,8 +1,3 @@
-<!--
-  PREMIUM GITHUB PROFILE README
-  Replace every YOUR_* placeholder with your own profile links and IDs.
-  Recommended: keep this file inside a repository named exactly like your GitHub username.
--->
 
 <a id="top"></a>
 
@@ -28,20 +23,17 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/VanshGarg355">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="linkedin.com/in/vansh-garg-38b007384">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/vanshgarg355/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+  <a href="https://www.codechef.com/users/vanshgarg">
     <img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=0D1117" alt="HackerRank" />
   </a>
 </p>
 
@@ -97,16 +89,6 @@ goal: Become a high-impact software engineer
       <br /><strong>Backend Systems</strong>
       <br />APIs, auth, services
     </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
-      <br /><strong>AI Engineering</strong>
-      <br />Prompting, automation, ML basics
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
-      <br /><strong>Databases</strong>
-      <br />Schema design, queries
-    </td>
   </tr>
 </table>
 
@@ -114,7 +96,7 @@ goal: Become a high-impact software engineer
 
 <!-- SKILLS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,git,github,vscode,idea,figma,ps,windows,linux&perline=11" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,tailwind,bootstrap,mongodb,git,github,vscode,figma,ps,windows" alt="Skill icons" />
 </p>
 
 ### Programming Languages
@@ -138,8 +120,6 @@ goal: Become a high-impact software engineer
 ### Backend Skills
 <p>
   <img src="https://img.shields.io/badge/Node.js-00EA64?style=for-the-badge&logo=nodedotjs&logoColor=0D1117" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF007A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 ### Database
@@ -151,8 +131,6 @@ goal: Become a high-impact software engineer
 ### AI & Prompt Engineering
 <p>
   <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI_Automation-00E5FF?style=for-the-badge&logo=googlegemini&logoColor=0D1117" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/ML_Basics-FF007A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Basics" />
 </p>
 
 ### Developer Tools
@@ -171,18 +149,6 @@ goal: Become a high-impact software engineer
   <img src="https://img.shields.io/badge/Open_Source-FF007A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
 </p>
 
-### IDEs
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-FF007A?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
-
-### Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Windows-00E5FF?style=for-the-badge&logo=windows11&logoColor=0D1117" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FFE66D?style=for-the-badge&logo=linux&logoColor=0D1117" alt="Linux" />
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284103-3b5f66a9-0f31-4f1f-9730-95f101264dfb.gif" alt="Animated neon line" width="100%" />
 </p>
@@ -191,53 +157,53 @@ goal: Become a high-impact software engineer
 
 <!-- GITHUB STATS -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF007A&text_color=FFFFFF&rank_icon=github" alt="GitHub stats card" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007A&currStreakLabel=00E5FF" alt="GitHub streak stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshGarg355&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF007A&text_color=FFFFFF&rank_icon=github" alt="GitHub stats card" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=VanshGarg355&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007A&currStreakLabel=00E5FF" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top languages card" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5" alt="Productivity metrics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshGarg355&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top languages card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanshGarg355&theme=tokyonight&utcOffset=5.5" alt="Productivity metrics" />
 </p>
 
 <!-- PROFILE SUMMARY CARDS -->
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile summary card" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshGarg355&theme=tokyonight" alt="Profile summary card" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Most commit language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshGarg355&theme=tokyonight" alt="Repos per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshGarg355&theme=tokyonight" alt="Most commit language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshGarg355&theme=tokyonight" alt="Profile stats" />
 </p>
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshGarg355&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" width="100%" />
 </p>
 
 <!-- ACTIVITY GRAPH + CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00E5FF&line=FF007A&point=FFFFFF&area=true&hide_border=true&custom_title=Neon%20Contribution%20Graph" alt="Contribution graph and activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshGarg355&bg_color=0D1117&color=00E5FF&line=FF007A&point=FFFFFF&area=true&hide_border=true&custom_title=Neon%20Contribution%20Graph" alt="Contribution graph and activity graph" width="100%" />
 </p>
 
 <!-- COMMIT CALENDAR -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/YOUR_GITHUB_USERNAME" alt="Commit calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/00E5FF/VanshGarg355" alt="Commit calendar" width="100%" />
 </p>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanshGarg355/VanshGarg355/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanshGarg355/VanshGarg355/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/VanshGarg355/VanshGarg355/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
 <!-- METRICS PLACEHOLDER -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&config.timezone=Asia%2FKolkata" alt="Advanced GitHub productivity metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/VanshGarg355?template=classic&config.timezone=Asia%2FKolkata" alt="Advanced GitHub productivity metrics" width="100%" />
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216654112-25a3e4d6-c4f9-47bd-a6bc-4df4dffeda64.gif" width="34" alt="Projects" /> Featured Projects
@@ -296,17 +262,14 @@ goal: Become a high-impact software engineer
 ## <img src="https://user-images.githubusercontent.com/74038190/216656951-04c93552-a87a-404e-8396-8d7ae308b78b.gif" width="34" alt="Coding platforms" /> Coding Platforms
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/VanshGarg355">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/vanshgarg355">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+  <a href="https://www.codechef.com/users/vanshgarg">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=0D1117" alt="HackerRank" />
   </a>
 </p>
 
@@ -394,32 +357,8 @@ goal: Become a high-impact software engineer
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" width="100%" />
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656974-6bb8f2ef-b62f-40d3-a2a4-e9cb396250e4.gif" width="34" alt="Extra features" /> Extra Features
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎧 Spotify Now Playing</h3>
-      <p align="center">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00e5ff&bar_color_cover=false" alt="Spotify now playing placeholder" width="100%" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>⏱️ Coding Time</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="WakaTime coding time placeholder" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216656946-fafc1c14-9666-4c38-9432-315f8d8fd9a9.gif" width="34" alt="Support" /> Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFE66D?style=for-the-badge&logo=buymeacoffee&logoColor=0D1117" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sponsors/VanshGarg355">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-FF007A?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
   </a>
 </p>
@@ -427,16 +366,16 @@ goal: Become a high-impact software engineer
 ## <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af3-bd85-4d04586b8c7c.gif" width="34" alt="Connect" /> Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/VanshGarg355">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/vansh-garg-38b007384/">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:vanshgarg355@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF007A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://vanshgarg355.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -452,12 +391,4 @@ goal: Become a high-impact software engineer
     <img src="https://img.shields.io/badge/BACK_TO_TOP-00E5FF?style=for-the-badge&logo=rocket&logoColor=0D1117" alt="Back to top" />
   </a>
 </p>
-
-<!--
-  OPTIONAL SETUP NOTES
-  1. Rename this repository to your exact GitHub username to make it your profile README.
-  2. Replace YOUR_GITHUB_USERNAME and all social placeholders.
-  3. Snake animation requires a GitHub Action that publishes files to /output.
-  4. Some widgets depend on third-party services and may rate-limit or require configuration.
--->
 
