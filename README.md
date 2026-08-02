@@ -120,8 +120,7 @@ goal: Become a high-impact software engineer
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshGarg355&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshGarg355&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://metrics.lecoq.io/VanshGarg355?template=classic&config.timezone=Asia%2FKolkata" />
 </p>
 
 <p align="center">
