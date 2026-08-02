@@ -117,16 +117,25 @@ goal: Become a high-impact software engineer
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshGarg355&theme=tokyonight" alt="GitHub profile summary" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshGarg355&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshGarg355&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshGarg355&theme=tokyonight" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshGarg355&theme=tokyonight" alt="Most commit language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshGarg355&theme=tokyonight" alt="GitHub stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshGarg355&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VanshGarg355&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanshGarg355&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/VanshGarg355?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/VanshGarg355?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
